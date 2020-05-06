@@ -1,0 +1,13 @@
+Nombre	Apellidos	Email	Telefono	
+Jose Enrique	Araya Monge	jaraya@tec.ac.cr 	25502448	
+Fabian	Araya Mora	faaraya@tec.ac.cr	25502110	
+Fabian	Araya Mora	fabian.araya@tec.ac.cr	+50625502398	
+Jose Andres	Araya Obando	jobando@tec.ac.cr	2550-2311	
+Alejandra	Araya Perez	alaraya@tec.ac.cr	+506 25502558	
+Tamagalpa	Araya Perez	alaraya@tec.ac.cr	(+506) 25502558	
+Oscar	Viquez Acuna	oviquez@tec.ac.cr	83-31-44-45	
+Pedro 	Perez Ramirez	pperez@tec.ac.cr	+5067205-2357	
+Bomberos	CR	bomberos@bomberos.cr	1118	
+Fabian	Araya Mora	fabian.araya@tec.ac.cr	+50625501230	
+Emergencias	CR	emergencias@costarica.cr	911	
+Policia	CR	policia@costarica.cr	117	
